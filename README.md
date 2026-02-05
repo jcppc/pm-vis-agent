@@ -16,7 +16,7 @@
 
 ## Overview
 
-This repository contains the source code, experimental pipeline, and Streamlit-based tool accompanying the paper *"Leveraging Large Language Models for Agentic Process Analytics Assistants: Assessing Accuracy in Process Mining Tasks"*, submitted to Elsevier.
+This repository contains the source code and experimental pipeline accompanying the paper *"Leveraging Large Language Models for Agentic Process Analytics Assistants: Assessing Accuracy in Process Mining Tasks"*, submitted to Elsevier.
 
 The study introduces a framework that:
 
