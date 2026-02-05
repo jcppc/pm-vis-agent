@@ -10,7 +10,7 @@
 >
 > <sup>a</sup> NOVA Information Management School (NOVA IMS), Universidade Nova de Lisboa, Portugal  
 > <sup>b</sup> COPELABS, ECATI, Lusófona University, Lisbon, Portugal  
-> <sup>*</sup> Corresponding author — joao.caldeira@lusofona.pt
+> <sup>*</sup> Corresponding authors — diogogaliza38@gmail.com joao.caldeira@lusofona.pt 
 
 ---
 
